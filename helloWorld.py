@@ -1,1 +1,1 @@
-print "Hello World! Make Money!"
+print "Fuck World! Make Money With You!"
